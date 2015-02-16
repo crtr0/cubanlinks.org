@@ -1,0 +1,15 @@
+meta:
+  site_title: "Cubanlinks.org"
+  site_subtitle: "Carter Rabasa - only slightly nerdy."
+  site_language: "en"
+  absolute_baseurl: http://cubanlinks.org
+  domain: cubanlinks.org
+  author:
+    full_name: Carter Michael Rabasa
+    short_name: crabasa
+    email: carter@rabasa.com
+
+tag_dir: tag
+pygments: true
+markdown: rdiscount
+permalink: pretty
