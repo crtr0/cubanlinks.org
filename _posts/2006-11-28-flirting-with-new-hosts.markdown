@@ -9,8 +9,6 @@ tags:
 wordpress_slug: flirting-with-new-hosts
 wordpress_url: http://cubanlinks.org/2006/11/30/flirting-with-new-hosts
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/flirting-with-new-hosts](http://cubanlinks.org/2006/11/30/flirting-with-new-hosts) &laquo;
-
 <p><img src="http://dreamhost.com/images/logo.png" alt="" /></p>
 
 

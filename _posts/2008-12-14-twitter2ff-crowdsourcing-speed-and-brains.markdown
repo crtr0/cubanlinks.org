@@ -8,8 +8,6 @@ tags:
 wordpress_slug: twitter2ff-crowdsourcing-speed-and-brains
 wordpress_url: http://cubanlinks.org/2008/12/14/twitter2ff-crowdsourcing-speed-and-brains
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/12/14/twitter2ff-crowdsourcing-speed-and-brains](http://cubanlinks.org/2008/12/14/twitter2ff-crowdsourcing-speed-and-brains) &laquo;
-
 There are two glaring problems with <a href="https://twitter2ff.appspot.com">Twitter2FF</a>:
 
 1. It relies on Twitter usernames to match FriendFeed nicknames in order to locate un-subscribed FF'ers

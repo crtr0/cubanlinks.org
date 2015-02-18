@@ -8,8 +8,6 @@ tags:
 wordpress_slug: rss-how-did-do-we-live-without-it
 wordpress_url: http://cubanlinks.org/2006/11/30/rss-how-did-do-we-live-without-it
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/rss-how-did-do-we-live-without-it](http://cubanlinks.org/2006/11/30/rss-how-did-do-we-live-without-it) &laquo;
-
 <p><b>The series of events:</b>
 <ul>
 <li>My <a href="http://www.bloglines.com">news aggregator</a> tells me that <a href="http://www.scripting.com">Dave&#8217;s site</a> has a new post (several actually). My aggregator is web-based, and automatically refreshes the page to alert me of new posts.</li>

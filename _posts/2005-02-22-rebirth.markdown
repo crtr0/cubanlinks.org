@@ -8,8 +8,6 @@ tags:
 wordpress_slug: rebirth
 wordpress_url: http://cubanlinks.org/2006/11/30/rebirth
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/rebirth](http://cubanlinks.org/2006/11/30/rebirth) &laquo;
-
 <div class="terminal">crabasa@taurus:~$ uname -a</span><br/>
 Linux taurus 2.4.27-1-386 #1 Fri Sep 3 06:24:46 <span class="caps">UTC 2004</span> i686 <span class="caps">GNU</span>/Linux</div>
 <p>Now that my box (Taurus) was home, I needed to begin the process of backing up its data and re-installing Linux.  My first instinct was to install <a href="http://www.gentoo.org">Gentoo</a>, after hearing so many good things about it.  To this end, I downloaded the i686 <span class="caps">ISO</span> of Gentoo to a CD and booted off of it.  From the prompt, I mounted my partitions (hda1, hda2, hda3) to temporary directories and started to tar/gz my important data.  After the information was bundled, I simply scp&#8217;d the files to my <span class="caps">OSX</span> laptop.</p>

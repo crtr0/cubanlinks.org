@@ -8,8 +8,6 @@ tags:
 wordpress_slug: friendfeed-part-1
 wordpress_url: http://cubanlinks.org/2008/04/04/friendfeed-part-1
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/04/04/friendfeed-part-1](http://cubanlinks.org/2008/04/04/friendfeed-part-1) &laquo;
-
 <p><a href="http://twitter.com/efliv/statuses/783024476">Eddie asked</a>, so I&#8217;ll try to explain why (I think) I love <a href="http://www.friendfeed.com">FriendFeed</a>.</p>
 
 

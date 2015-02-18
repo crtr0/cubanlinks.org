@@ -9,8 +9,6 @@ tags:
 wordpress_slug: referral-links-web-ethics-etc
 wordpress_url: http://cubanlinks.org/2006/11/30/referral-links-web-ethics-etc
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/referral-links-web-ethics-etc](http://cubanlinks.org/2006/11/30/referral-links-web-ethics-etc) &laquo;
-
 <p>In <a href="http://cubanlinks.org/blog/articles/2006/11/29/slapped-in-the-face">my last post</a> I discussed some of the hosting services that I&#8217;ve been examining. A few of the links (TextDrive, Joyent, Strongspace) contain referral id&#8217;s. Any click on these <span class="caps">URL</span>&#8217;s that lead to a sale generate a small commission for me.</p>
 
 

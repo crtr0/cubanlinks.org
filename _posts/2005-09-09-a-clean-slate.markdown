@@ -8,8 +8,6 @@ tags:
 wordpress_slug: a-clean-slate
 wordpress_url: http://cubanlinks.org/2006/11/30/a-clean-slate
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/a-clean-slate](http://cubanlinks.org/2006/11/30/a-clean-slate) &laquo;
-
 <p>I&#8217;ve upgraded to <a href="http://typo.leetsoft.com/trac/">Typo</a>, a blogging tool written in Ruby on Rails. Writing and maintaining my own <a href="http://cubanlinks.org/mywiki/Conte">blogging tool</a> was a great opportunity for me to teach myself Spring and Hibernate, as well as increase my overall <span class="caps">J2EE</span>/webapp skills,  but the cost of keeping this tool up-to-date eventually became too high, and I could no longer keep up with things like comment spam, blacklists, etc.</p>
 
 

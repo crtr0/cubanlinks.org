@@ -8,8 +8,6 @@ tags:
 wordpress_slug: twitter-is-proprietary-rss
 wordpress_url: http://cubanlinks.org/2008/04/22/twitter-is-proprietary-rss
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/04/22/twitter-is-proprietary-rss](http://cubanlinks.org/2008/04/22/twitter-is-proprietary-rss) &laquo;
-
 <p>So, it seems that <a href="http://www.techmeme.com/080421/p92#a080421p92">Twitter has been down lately</a>.  <a href="http://www.scripting.com/stories/2008/04/20/aNewKindOfTwitterOutage.html">There has</a> been <a href="http://www.scripting.com/stories/2008/04/21/theTwitterOutagePersists.html">a lot</a> of <a href="http://www.scripting.com/stories/2008/04/21/aNewStrategyForTwitterOuta.html">hand-wringing</a> about what is <a href="http://scobleizer.com/2008/04/21/twitter-grabbing-defeat-from-the-jaws-of-success/">to be done</a>.  A lot of people have come around on the Twitter phenomenon, and I think I know why:</p>
 
 

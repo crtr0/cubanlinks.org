@@ -8,8 +8,6 @@ tags:
 wordpress_slug: burning-the-midnight-oil
 wordpress_url: http://cubanlinks.org/2006/11/30/burning-the-midnight-oil
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/burning-the-midnight-oil](http://cubanlinks.org/2006/11/30/burning-the-midnight-oil) &laquo;
-
 <p>Since I don&#8217;t have access to my server from work, making any big changes is difficult since I have to get it done before I leave for work the next day.  Sprinkle in going to the gym and eating dinner, and the hours are few and far between.
 <br/><br/>
 In any case, I think I&#8217;m on my way to locking down my server.  Here&#8217;s a <b>before</b> snapshot:<br/><br/>

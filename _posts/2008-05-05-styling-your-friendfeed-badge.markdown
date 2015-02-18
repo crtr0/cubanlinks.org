@@ -8,8 +8,6 @@ tags:
 wordpress_slug: styling-your-friendfeed-badge
 wordpress_url: http://cubanlinks.org/2008/05/05/styling-your-friendfeed-badge
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/05/styling-your-friendfeed-badge](http://cubanlinks.org/2008/05/05/styling-your-friendfeed-badge) &laquo;
-
 <p>Hey Eddie, did you know you can use <span class="caps">CSS</span> style you FriendFeed badge?  You sure can!  Here&#8217;s the styling I use:</p>
 
 

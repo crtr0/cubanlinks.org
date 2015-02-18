@@ -8,8 +8,6 @@ tags:
 wordpress_slug: ff2disqus-v03
 wordpress_url: http://cubanlinks.org/blog/?p=2354
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/blog/?p=2354](http://cubanlinks.org/blog/?p=2354) &laquo;
-
 <a href="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d3.png"><img class="alignnone size-medium wp-image-2355" title="ff2d3" src="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d3-300x225.png" alt="ff2d3" width="300" height="225" /></a>
 
 Now that v0.3 of FF2Disqus is in private-beta, I thought I'd put up a page to answer basic some questions about the application and record feedback.  Please check-out the example above of how a typical sync works.  If you have any questions or comments, please leave them in the comments.

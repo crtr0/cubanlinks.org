@@ -8,8 +8,6 @@ tags:
 wordpress_slug: typo-apache-lighttpd-textdrive
 wordpress_url: http://cubanlinks.org/2006/11/30/typo-apache-lighttpd-textdrive
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/typo-apache-lighttpd-textdrive](http://cubanlinks.org/2006/11/30/typo-apache-lighttpd-textdrive) &laquo;
-
 <p>For all my homies who have had trouble getting Apache, Lighttpd and Typo (on a shared host no less!) deployed in a subdirectory off the document root, here&#8217;s what I had to do:</p>
 
 

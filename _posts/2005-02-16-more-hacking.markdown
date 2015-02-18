@@ -8,8 +8,6 @@ tags:
 wordpress_slug: more-hacking
 wordpress_url: http://cubanlinks.org/2006/11/30/more-hacking
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/more-hacking](http://cubanlinks.org/2006/11/30/more-hacking) &laquo;
-
 <p><a href="http://www.thefatguy.com">Some people</a> have requested more information about the hacking of my box. <b>Alert: nerd content ahead!</b></p>
 <p>I wish I could say that I knew right away that my box was hacked, but I didn&#8217;t.  I generally don&#8217;t have access to my box from work, and certainly don&#8217;t have all that much free time to monitor it in any case.  The first hints involved degrading performance <a href="/blog">of</a> <a href="/mywiki">my</a> <a href="http://dckickball.org">various</a> <a href="https://mail.cubanlinks.org/mailman/listinfo">sites</a>.  First things were just slow, then things (Tomcat, etc) would just crash.  Eventually I closed my eyes, held my breath, and remotely rebooted my box.  Everything came back up, but the problems seem to persist.</p>
 <p>Previous to this, I had recieved numerous emails from cron telling me that certain tasks (cleanup, etc) were failing with errors.  Being lazy, I ignored these errors for a while, hoping they would go away (duh!).  After enough time went by, and they didn&#8217;t go away, I investigated more and discovered my box had been hacked.</p>

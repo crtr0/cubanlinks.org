@@ -11,8 +11,6 @@ tags:
 wordpress_slug: amazon-wish-list-badge-2
 wordpress_url: http://cubanlinks.org/2006/11/30/amazon-wish-list-badge
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/amazon-wish-list-badge](http://cubanlinks.org/2006/11/30/amazon-wish-list-badge) &laquo;
-
 <p>Remember those Amazon Wish Lists that people used to set-up in the hopes that their friends or family would notice their pressing desire for the latest Red Hot Chili Peppers CD and (in the event of a birthday or Christmas) decide to hook them up? The problem was the wants were hard to publicize. Amazon provided the ability to email your Wish List to people, but how crass is that?</p>
 
 

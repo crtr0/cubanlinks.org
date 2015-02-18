@@ -8,8 +8,6 @@ tags:
 wordpress_slug: the-google-decade
 wordpress_url: http://cubanlinks.org/2006/11/30/the-google-decade
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/the-google-decade](http://cubanlinks.org/2006/11/30/the-google-decade) &laquo;
-
 <p><a href="http://blog.topix.net/archives/000016.html">A very thought-provoking look into Google&#8217;s technology and where it might take them.</a>  I&#8217;m a strong believer in the inevitable migration away from pure desktop applications to internet-enabled applications, and it seems like Google may be poised to be a dominant player in that space in the future.
 <br/><br/>
 Of course, people (Sun, Oracle, etc) have been saying this for years, and many attempts at pure thin-clients have failed.  What they never understood is that the best internet applications (or services) work in <em>conjunction</em> with desktop apps. Examples:<br/>

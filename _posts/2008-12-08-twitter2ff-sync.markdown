@@ -8,8 +8,6 @@ tags:
 wordpress_slug: twitter2ff-sync
 wordpress_url: http://cubanlinks.org/2008/12/13/twitter2ff-sync
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/12/13/twitter2ff-sync](http://cubanlinks.org/2008/12/13/twitter2ff-sync) &laquo;
-
 <img src="http://cubanlinks.org/assets/2008/12/9/t2ff.PNG" alt="" />
 <ul>
 <li><strong>name:</strong> Twitter2FF</li>

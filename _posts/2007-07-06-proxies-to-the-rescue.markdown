@@ -9,8 +9,6 @@ tags:
 wordpress_slug: proxies-to-the-rescue
 wordpress_url: http://cubanlinks.org/2007/07/06/proxies-to-the-rescue
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2007/07/06/proxies-to-the-rescue](http://cubanlinks.org/2007/07/06/proxies-to-the-rescue) &laquo;
-
 <p>Ok, at this point I&#8217;ve now noticed at least 2 &#8220;applications&#8221; for the iPhone that require the user to set-up some sort of proxy:</p>
 
 

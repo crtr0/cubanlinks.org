@@ -8,8 +8,6 @@ tags:
 wordpress_slug: pinging-weblogs-com
 wordpress_url: http://cubanlinks.org/2006/11/30/pinging-weblogs-com
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/pinging-weblogs-com](http://cubanlinks.org/2006/11/30/pinging-weblogs-com) &laquo;
-
 <p>I just added a feature that allows my blog to &#8220;ping&#8221; weblogs.com (using <span class="caps">XML</span>-RPC) everytime I add a new post.
 <br/><br/>
 <i>What is weblogs.com?</i><br/>

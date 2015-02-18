@@ -8,8 +8,6 @@ tags:
 wordpress_slug: blogit-will-ruin-my-life
 wordpress_url: http://cubanlinks.org/2008/04/17/blogit-will-ruin-my-life
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/04/17/blogit-will-ruin-my-life](http://cubanlinks.org/2008/04/17/blogit-will-ruin-my-life) &laquo;
-
 <p>After <a href="http://www.readwriteweb.com/archives/sixapart_ties_it_all_together.php">reading about BlogIt</a> I am convinced that this service will <strong>ruin my life</strong>.  Why you might ask?  Because it empowers people to type up a simple post:</p>
 
 

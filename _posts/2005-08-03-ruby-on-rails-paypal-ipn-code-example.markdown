@@ -12,8 +12,6 @@ tags:
 wordpress_slug: ruby-on-rails-paypal-ipn-code-example
 wordpress_url: http://cubanlinks.org/2006/11/30/ruby-on-rails-paypal-ipn-code-example
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/ruby-on-rails-paypal-ipn-code-example](http://cubanlinks.org/2006/11/30/ruby-on-rails-paypal-ipn-code-example) &laquo;
-
 <p>I thought I&#8217;d share the skeleton of some code I had to write for PayPal&#8217;s backend <span class="caps">IPN API</span>.</p>
 
 

@@ -8,8 +8,6 @@ tags:
 wordpress_slug: the-apple-of-my-eye
 wordpress_url: http://cubanlinks.org/2006/11/30/the-apple-of-my-eye
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/the-apple-of-my-eye](http://cubanlinks.org/2006/11/30/the-apple-of-my-eye) &laquo;
-
 <p><a href="http://jeremy.zawodny.com/blog/archives/001819.html">Jeremy is getting a new Powerbook</a>.  And dammit, I want one too!
 <br/><br/>
 <a href="http://www.proteus.com">The company I used to work for</a> was a bastion of Apple goodness.  Even a year later, I still miss my old-school black PowerBook.  As hard as I&#8217;ve tried, my Dell Latutude simply hasn&#8217;t grown on me.  How they remain so firmly extrenched at number 1 is a mystery to me.

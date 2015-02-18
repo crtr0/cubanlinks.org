@@ -9,8 +9,6 @@ tags:
 wordpress_slug: slapped-in-the-face
 wordpress_url: http://cubanlinks.org/2006/11/30/slapped-in-the-face
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/slapped-in-the-face](http://cubanlinks.org/2006/11/30/slapped-in-the-face) &laquo;
-
 <p><img src="http://textdrive.com/images/textdrive.gif" alt="" /></p>
 
 

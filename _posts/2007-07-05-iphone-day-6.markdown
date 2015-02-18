@@ -8,8 +8,6 @@ tags:
 wordpress_slug: iphone-day-6
 wordpress_url: http://cubanlinks.org/2007/07/05/iphone-day-6
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2007/07/05/iphone-day-6](http://cubanlinks.org/2007/07/05/iphone-day-6) &laquo;
-
 <p>I won&#8217;t pretend to be an unbiased critic of Apple products.  I own a Mac Mini, a MacBook Pro, an iPod and now an iPhone.  I also own Apple stock (now trading at $130, woo hoo!).  However, as much as I love the iPhone, there are some bizarre shortcomings that I&#8217;ve come to notice.</p>
 
 

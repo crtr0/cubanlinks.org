@@ -8,8 +8,6 @@ tags:
 wordpress_slug: bug-184729-fixed
 wordpress_url: http://cubanlinks.org/2006/11/30/bug-184729-fixed
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/bug-184729-fixed](http://cubanlinks.org/2006/11/30/bug-184729-fixed) &laquo;
-
 <p>I sent my friend Sarah a perma-link to a post I wrote about the war.  It was easier than explaining how I felt over IM.  Much to my dismay, she told me she got an error page when she clicked on the link.  After some investigation, I discovered I was improperly <a href="http://java.sun.com/j2se/1.4.1/docs/api/java/text/SimpleDateFormat.html" title="SimpleDateFormat object in Java">formatting the date</a>.
 <br/><br/>
 This:<br/><br/>

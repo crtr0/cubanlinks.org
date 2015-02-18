@@ -8,6 +8,4 @@ tags:
 wordpress_slug: igotit
 wordpress_url: http://cubanlinks.org/2007/06/30/igotit
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2007/06/30/igotit](http://cubanlinks.org/2007/06/30/igotit) &laquo;
-
 <p><img src="http://cubanlinks.org/assets/2007/6/30/Photo_6.jpg" alt="" /></p>

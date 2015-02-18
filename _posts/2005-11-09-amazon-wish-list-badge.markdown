@@ -8,8 +8,6 @@ tags:
 wordpress_slug: amazon-wish-list-badge
 wordpress_url: http://cubanlinks.org/2006/11/30/amazon-wish-list-badge
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/amazon-wish-list-badge](http://cubanlinks.org/2006/11/30/amazon-wish-list-badge) &laquo;
-
 Over the past day or so, I&#8217;ve cobbled together an Amazon Wish List badge for my blog.  You&#8217;ll see my items listed on the right of this page if you scroll down.  I did this using 3 things:
 <ul>
 <li><a href="http://www.amazon.com/gp/aws/sdk/103-2194516-4697459?v=2005%2d10%2d05&#38;s=AWSEcommerceService">Amazon Web Services</a></li>

@@ -8,8 +8,6 @@ tags:
 wordpress_slug: adobe-air-resource-hog
 wordpress_url: http://cubanlinks.org/2008/05/05/adobe-air-resource-hog
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/05/adobe-air-resource-hog](http://cubanlinks.org/2008/05/05/adobe-air-resource-hog) &laquo;
-
 <p><a href="http://cubanlinks.org/assets/2008/5/5/twirl.png"><img src="http://cubanlinks.org/assets/2008/5/5/twirl_thumb.png" alt="" /></a></p>
 
 

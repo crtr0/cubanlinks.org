@@ -8,8 +8,6 @@ tags:
 wordpress_slug: iphone-day-3
 wordpress_url: http://cubanlinks.org/2007/07/02/iphone-day-3
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2007/07/02/iphone-day-3](http://cubanlinks.org/2007/07/02/iphone-day-3) &laquo;
-
 <p><img src="http://farm2.static.flickr.com/1170/694949183_6525f3770f_m.jpg" alt="sent from my iPhone"/></p>
 
 

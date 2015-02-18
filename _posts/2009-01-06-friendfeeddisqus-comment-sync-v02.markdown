@@ -8,8 +8,6 @@ tags:
 wordpress_slug: friendfeeddisqus-comment-sync-v02
 wordpress_url: http://cubanlinks.org/blog/?p=2341
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/blog/?p=2341](http://cubanlinks.org/blog/?p=2341) &laquo;
-
 <img class="alignnone size-full wp-image-2340" title="FF2Disqus" src="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d1.png" alt="FF2Disqus" width="400" height="221" />
 
 Please see my <a href="http://cubanlinks.org/blog/2009/01/04/friendfeeddisqus-comment-sync-v01/">previous post</a> for a run-down on how this tool works.  So, what's new?  Well, alot:

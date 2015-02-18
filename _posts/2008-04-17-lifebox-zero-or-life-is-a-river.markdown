@@ -8,8 +8,6 @@ tags:
 wordpress_slug: lifebox-zero-or-life-is-a-river
 wordpress_url: http://cubanlinks.org/2008/04/17/lifebox-zero-or-life-is-a-river
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/04/17/lifebox-zero-or-life-is-a-river](http://cubanlinks.org/2008/04/17/lifebox-zero-or-life-is-a-river) &laquo;
-
 <p>A while back I was introduced to the concept of <a href="http://lifehacker.com/software/email/merlin-mann-presents-inbox-zero-282544.php">inbox zero</a>. It was simultaneously an obvious and insightful concept, completely changing how I treat email.  I use GMail, and it had never occurred to me what the purpose of the &#8220;archive&#8221; button was.  I simply left all emails in my inbox and starred those that required attention.  Of course, starred messages would soon dribble down and off the first page, and I would have to remember to click the &#8220;starred view&#8221; to bring these emails back to attention. Today, I have maybe <strong>20 emails</strong> in my inbox (and this is still probably too many).  I have the most urgent emails starred.</p>
 
 

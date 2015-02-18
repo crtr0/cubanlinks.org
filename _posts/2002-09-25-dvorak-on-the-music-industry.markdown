@@ -8,8 +8,6 @@ tags:
 wordpress_slug: dvorak-on-the-music-industry
 wordpress_url: http://cubanlinks.org/2006/11/30/dvorak-on-the-music-industry
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/dvorak-on-the-music-industry](http://cubanlinks.org/2006/11/30/dvorak-on-the-music-industry) &laquo;
-
 <p>Here&#8217;s a <a href="http://www.pcmag.com/article2/0,4149,548513,00.asp" title="One Buck Forty or Die">quote</a> by John C. Dvorak that blew my mind:<br/><br/>
 <i>When Edison first released his prerecorded cylinders, they sold for $4 each. With mass production, he eventually brought the price down to 35 cents, nearly a 90 percent reduction. If the same ratio held true with $16 CDs, the cost of which has been perpetually propped up by price fixing, they would cost $1.40. Since it costs less than 25 cents to mass-produce a CD, $1.40 is reasonable and profitable&#8230; The industry can still make millions of dollars, just not billions. And many artists can go back to making money the old-fashioned way &#8211; by working harder and performing more.</i><br/><br/>
 Dvorak is saying two things: 1) that the price of an album should be tied to the cost of pressing a CD and 2) that the music industry should sit back and accept a drop in revenue by a factor of 1000.<br/><br/>

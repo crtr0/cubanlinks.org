@@ -8,8 +8,6 @@ tags:
 wordpress_slug: alert-thingy-incoming-tweets-not-working
 wordpress_url: http://cubanlinks.org/2008/05/04/alert-thingy-incoming-tweets-not-working
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/04/alert-thingy-incoming-tweets-not-working](http://cubanlinks.org/2008/05/04/alert-thingy-incoming-tweets-not-working) &laquo;
-
 <p><img src="http://cubanlinks.org/assets/2008/5/4/AT_screen.png" alt="" /></p>
 
 

@@ -8,8 +8,6 @@ tags:
 wordpress_slug: javamail-sun-s-sample-app-and-tomcat-4-x
 wordpress_url: http://cubanlinks.org/2006/11/30/javamail-sun-s-sample-app-and-tomcat-4-x
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/javamail-sun-s-sample-app-and-tomcat-4-x](http://cubanlinks.org/2006/11/30/javamail-sun-s-sample-app-and-tomcat-4-x) &laquo;
-
 <p>I recently downloaded Sun&#8217;s <a href="http://developer.java.sun.com/developer/technicalArticles/javaserverpages/emailapps/">sample</a> application for <a href="http://java.sun.com/products/javamail/">JavaMail</a>.  As the name implies, JavaMail is Sun&#8217;s Java <span class="caps">API</span> for interfacing with email systems.  Using JavaMail, you can access <span class="caps">POP</span> or <span class="caps">IMAP</span> accounts, as well as send messages.
 <br/><br/>
 Unfortunately, Sun&#8217;s sample app does not run on Tomcat 4.x for <b>two</b> reasons:  their <span class="caps">WEB</span>-INF/web.xml is malformed and their tags are not fully qualifies.  Both of these issues were most likely ignored by older versions of Tomcat, but this one picky.

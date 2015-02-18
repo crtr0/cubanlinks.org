@@ -8,8 +8,6 @@ tags:
 wordpress_slug: technora-core-dump
 wordpress_url: http://cubanlinks.org/2006/11/30/technora-core-dump
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/technora-core-dump](http://cubanlinks.org/2006/11/30/technora-core-dump) &laquo;
-
 <p>A couple of days ago Doc Searls <a href="http://doc.weblogs.com/2004/08/24#priorities">commented on Technorati&#8217;s recent infusion of cash</a> and Dave Sifry&#8217;s <a href="http://www.sifry.com/alerts/archives/000371.html">reluctance to crow about it</a>.  Doc is on the Technorati advisor board, and applauded Dave&#8217;s focus on results, not money.</p>
 <p>Well, if you&#8217;ve been even a <i>casual</i> Technorati user, I&#8217;m sure you&#8217;re as aware as I am that they have <b>a lot of work to do</b>.  Today&#8217;s post is brought to you by:
 <blockquote>

@@ -8,8 +8,6 @@ tags:
 wordpress_slug: i-m-back-sort-of
 wordpress_url: http://cubanlinks.org/2006/11/30/i-m-back-sort-of
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/i-m-back-sort-of](http://cubanlinks.org/2006/11/30/i-m-back-sort-of) &laquo;
-
 <p>In case you hadn&#8217;t noticed, all the websites that I operate (cubanlinks.org, dckickball.org, etc) have been down. This is due to the <b>complete</b> and <b>utter</b> failure of the hard drive of the machine that powered those sites. The machine in question (Taurus) was an old Dell PC that was donated to me by my roommate.  Despite having all my eggs in a single basket, I failed to take the mandatory precautions (backup, failover, etc) that any competent system administrator would have taken, and as a result I have lost everything.</p>
 
 

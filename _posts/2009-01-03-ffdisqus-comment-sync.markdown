@@ -8,6 +8,4 @@ tags:
 wordpress_slug: ffdisqus-comment-sync
 wordpress_url: http://cubanlinks.org/blog/2009/01/03/ffdisqus-comment-sync/
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/blog/2009/01/03/ffdisqus-comment-sync/](http://cubanlinks.org/blog/2009/01/03/ffdisqus-comment-sync/) &laquo;
-
 This is a test post for some code I'm writing to sync comments between FriendFeed and Disqus.  Wish me luck!

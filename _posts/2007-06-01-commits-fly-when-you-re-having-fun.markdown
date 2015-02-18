@@ -8,8 +8,6 @@ tags:
 wordpress_slug: commits-fly-when-you-re-having-fun
 wordpress_url: http://cubanlinks.org/2007/06/01/commits-fly-when-you-re-having-fun
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2007/06/01/commits-fly-when-you-re-having-fun](http://cubanlinks.org/2007/06/01/commits-fly-when-you-re-having-fun) &laquo;
-
 <pre><code>Transmitting file data ...............
 Committed revision 200.</code></pre>
 

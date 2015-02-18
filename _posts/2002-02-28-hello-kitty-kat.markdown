@@ -8,8 +8,6 @@ tags:
 wordpress_slug: hello-kitty-kat
 wordpress_url: http://cubanlinks.org/2006/11/30/hello-kitty-kat
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/hello-kitty-kat](http://cubanlinks.org/2006/11/30/hello-kitty-kat) &laquo;
-
 <p>Welcome to my site, cubanlinks.org.  I would try to pin down what this site is <i>about</i> but every day that seems to change.  As far as I can tell, right now there are a couple of things I&#8217;m trying to do.
 <br/><br/>
 The first is to share my life (via posts, <a href="/album/">photos</a>, etc) with friends and family.  I&#8217;m not the most keep-in-touch person in the world, so maybe these pages can help a little bit.

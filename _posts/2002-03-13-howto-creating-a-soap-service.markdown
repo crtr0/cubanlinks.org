@@ -8,8 +8,6 @@ tags:
 wordpress_slug: howto-creating-a-soap-service
 wordpress_url: http://cubanlinks.org/2006/11/30/howto-creating-a-soap-service
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/howto-creating-a-soap-service](http://cubanlinks.org/2006/11/30/howto-creating-a-soap-service) &laquo;
-
 <p><a href="http://www.w3.org/TR/SOAP/"><span class="caps">SOAP</span></a> (Simple Object Access Protocol) is a protocol used for developing web-services.  A web-service, as its name implies, is a service that is accessible via the internet.  The classic example is the stock quote web-service: you provide it a company symbol, and it responds with the current price of the stock.
 <br/><br/>
 Web services are powerful in that they have the ability to tie together disparate systems.  It is possible for a <span class="caps">COBOL</span>/Unix machine to communicate with a C#/Intel box so long as both speak <span class="caps">SOAP</span>.

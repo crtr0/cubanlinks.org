@@ -12,8 +12,6 @@ tags:
 wordpress_slug: mephisto-multi-site-and-lighttpd
 wordpress_url: http://cubanlinks.org/2006/12/28/mephisto-multi-site-and-lighttpd
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/12/28/mephisto-multi-site-and-lighttpd](http://cubanlinks.org/2006/12/28/mephisto-multi-site-and-lighttpd) &laquo;
-
 <p>After playing around with Lighttpd&#8217;s rewrite abilities, I think I have a set-up that enables Mephisto caching goodness.  The following is how I have chosen to configure Mephisto, so your mileage may vary:</p>
 
 

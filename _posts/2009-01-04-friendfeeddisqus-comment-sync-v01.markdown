@@ -8,8 +8,6 @@ tags:
 wordpress_slug: friendfeeddisqus-comment-sync-v01
 wordpress_url: http://cubanlinks.org/blog/?p=2335
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/blog/?p=2335](http://cubanlinks.org/blog/?p=2335) &laquo;
-
 I've completed an alpha version of my Friendfeed-to-Disqus Comment Sync.  It is a 100% Javascript client app, but you must download it to your computer in order to run (cross-domain scripting issues prevent hosting).  The app consists of an <a href="/ff2d/index.html">html file</a> and a <a href="/ff2d/prototype-1.6.0.3.js">javascript library</a>.  Here are some immediate issues to note:
 <ul>
 <li>Comments pulled from FriendFeed and posted to Disqus are done so using a bogus email address.  Email is a required field to post a comment to Disqus, but FriendFeed does not provide emails in its API.  So, the email used is &lt;ff nickname&gt;@bogus_email.com.</li>

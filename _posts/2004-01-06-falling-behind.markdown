@@ -8,8 +8,6 @@ tags:
 wordpress_slug: falling-behind
 wordpress_url: http://cubanlinks.org/2006/11/30/falling-behind
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/falling-behind](http://cubanlinks.org/2006/11/30/falling-behind) &laquo;
-
 It is tragic how out of step I am with the latest and greatest things these days.  I used to live and die on the bleeding edge of things, but I now find myself clued-out of a range of exciting things:<br/>
 <ul>
 <li>Social Networks &#8211; <a href="http://www.friendster.com">Friendster</a>, <a href="http://www.linkedin.com">LinkedIn</a>, etc</li>

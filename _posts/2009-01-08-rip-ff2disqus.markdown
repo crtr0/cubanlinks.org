@@ -8,8 +8,6 @@ tags:
 wordpress_slug: rip-ff2disqus
 wordpress_url: http://cubanlinks.org/blog/?p=2343
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/blog/?p=2343](http://cubanlinks.org/blog/?p=2343) &laquo;
-
 <img class="alignnone size-full wp-image-2344" title="ff2d2" src="http://cubanlinks.org/blog/wp-content/uploads/2009/01/ff2d2.png" alt="ff2d2" width="32" height="32" />
 
 <strong>[UPDATE]:</strong> FF2Disqus is back up, but in limited beta.  Email/Twitter me if you'd like to try it out.

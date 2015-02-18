@@ -8,8 +8,6 @@ tags:
 wordpress_slug: ff-clients-disappoint
 wordpress_url: http://cubanlinks.org/2008/05/06/ff-clients-disappoint
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/06/ff-clients-disappoint](http://cubanlinks.org/2008/05/06/ff-clients-disappoint) &laquo;
-
 <p><a href="http://cubanlinks.org/assets/2008/5/5/FF_compare.png"><img src="http://cubanlinks.org/assets/2008/5/5/FF_compare_thumb.png" alt="" /></a></p>
 
 

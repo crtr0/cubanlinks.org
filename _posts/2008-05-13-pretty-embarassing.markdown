@@ -8,8 +8,6 @@ tags:
 wordpress_slug: pretty-embarassing
 wordpress_url: http://cubanlinks.org/2008/05/13/pretty-embarassing
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/13/pretty-embarassing](http://cubanlinks.org/2008/05/13/pretty-embarassing) &laquo;
-
 <p><img src="http://cubanlinks.org/assets/2008/5/13/dupes.png" alt="" /></p>
 
 

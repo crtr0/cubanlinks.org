@@ -8,8 +8,6 @@ tags:
 wordpress_slug: friendfeed-part-1-5
 wordpress_url: http://cubanlinks.org/2008/04/07/friendfeed-part-1-5
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/04/07/friendfeed-part-1-5](http://cubanlinks.org/2008/04/07/friendfeed-part-1-5) &laquo;
-
 <p>First, some quick replies to issues raised by <a href="http://cubanlinks.org/articles/2008/4/4/friendfeed-part-1#comment-2025">Eddie</a> and <a href="http://cubanlinks.org/articles/2008/4/4/friendfeed-part-1#comment-2026">Sunil</a>:</p>
 
 

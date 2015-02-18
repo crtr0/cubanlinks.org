@@ -8,8 +8,6 @@ tags:
 wordpress_slug: decentralizing-twitter-is-gaining-steam
 wordpress_url: http://cubanlinks.org/2008/05/03/decentralizing-twitter-is-gaining-steam
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2008/05/03/decentralizing-twitter-is-gaining-steam](http://cubanlinks.org/2008/05/03/decentralizing-twitter-is-gaining-steam) &laquo;
-
 <p>It seems like <a href="http://www.scripting.com/stories/2008/05/03/microbloggingShouldBeDecen.html">Dave Winer</a> is coming around.  So is <a href="http://www.hanselman.com/blog/RFCOpenTweetsWhyIsMicrobloggingCentralized.aspx">Scott Hanselman</a>.  It seems like people are in agreement that the real barrier relates to Twitter&#8217;s value-adds:</p>
 
 

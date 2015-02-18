@@ -8,8 +8,6 @@ tags:
 wordpress_slug: google-away
 wordpress_url: http://cubanlinks.org/2006/11/30/google-away
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/google-away](http://cubanlinks.org/2006/11/30/google-away) &laquo;
-
 <p>I realized shortly after launching the update to my site, that I had broken every link Google had for me.  I&#8217;ll go into the details below, but suffice to say I needed to fix this quick.  After all, Google <a href="http://www.google.com/search?hl=en&#38;ie=UTF-8&#38;oe=UTF-8&#38;q=site%3Acubanlinks.org+the">has indexed over 1,000 pages from my site</a>.</p>
 
 

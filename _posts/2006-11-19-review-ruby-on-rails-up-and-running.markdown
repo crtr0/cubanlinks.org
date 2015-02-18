@@ -12,8 +12,6 @@ tags:
 wordpress_slug: review-ruby-on-rails-up-and-running
 wordpress_url: http://cubanlinks.org/2006/11/30/review-ruby-on-rails-up-and-running
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/review-ruby-on-rails-up-and-running](http://cubanlinks.org/2006/11/30/review-ruby-on-rails-up-and-running) &laquo;
-
 <ul>
 <li>Ruby on Rails &#8211; Up and Running</li>
 	<li>Bruce A. Tate &#38; Curt Hibbs</li>

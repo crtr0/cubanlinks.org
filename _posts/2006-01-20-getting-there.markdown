@@ -10,8 +10,6 @@ tags:
 wordpress_slug: getting-there
 wordpress_url: http://cubanlinks.org/2006/11/30/getting-there
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/getting-there](http://cubanlinks.org/2006/11/30/getting-there) &laquo;
-
 <p>So, I&#8217;ve just finished importing 610 entries into my blog&#8217;s database. As I mentioned before, I had used a tool called Warrick to scour the caches of various search (Google, Yahoo, etc) and archiving (Internet Archive) services to reconstruct a snapshot of cubanlinks.org.  This process left me with 1029 files scattered throughout 1106 directories.</p>
 
 

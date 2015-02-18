@@ -11,8 +11,6 @@ tags:
 wordpress_slug: lean-mean-blogging-machine
 wordpress_url: http://cubanlinks.org/2006/12/02/lean-mean-blogging-machine
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/12/02/lean-mean-blogging-machine](http://cubanlinks.org/2006/12/02/lean-mean-blogging-machine) &laquo;
-
 <p>This is the inaugural post to cubanlinks.org via the <a href="http://mephisto.stikipad.com">Mephisto</a> blogging application. I realize that many of you could give a rip what I use to serve-up Cubanlinks. However, for the few of you who might want to hear about my process, here you go:</p>
 
 

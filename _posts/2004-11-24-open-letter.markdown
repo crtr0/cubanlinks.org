@@ -8,8 +8,6 @@ tags:
 wordpress_slug: open-letter
 wordpress_url: http://cubanlinks.org/2006/11/30/open-letter
 ---
-&raquo; Cross-posted from [http://cubanlinks.org/2006/11/30/open-letter](http://cubanlinks.org/2006/11/30/open-letter) &laquo;
-
 <p><a href="http://www.sifry.com/alerts/">Dave Sifry</a> (founder and <span class="caps">CEO</span> of <a href="http://www.technorati.com">Technorati</a>) dropped by yesterday to comment on a post I wrote on some of my <a href="/blog/post/2004/11/23/Technorati-F-d-Up-<del>again</del>.html#permalink&#8221;&gt;latest frustrations using his company&#8217;s service.  This isn&#8217;t the first time <a href="/blog/post/2004/08/26/Technora---Core-Dump.html#permalink">he&#8217;s done this</a>, but I&#8217;m still amazed when it happens.</p>
 <p>He apologized for any problems I was experiencing, but also pointed out that the service seemed to be functioning correctly.  Naturally, I checked, and indeed things seem to be back up.  Must have been a temporary outage.</p>
 <p>In any case, I appreciate the amount of work Dave is obviously putting forth on behalf of his users.  It&#8217;s just that in the age of Google and other hyper-architected systems the stakes and expectations are raised for everyone involved in trying to build a customer base.</p>
