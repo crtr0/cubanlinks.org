@@ -25,7 +25,7 @@ I never did send that letter. In fact, I hadn't even written it yet. I think I w
 
 My stepmother called my this past Saturday. She could tell that Angel wasn't doing well and urged me to move up my plans to visit. I thanked her for calling, but I was sure he wasn't that bad and that I would have plenty of time to see him. After all, I was flying out in *just two weeks*. Even when I got the call on Sunday morning and was told that he had been admitted to the hospital and was in declining health, I assumed there would be time. We booked the entire family on the first flight out of Seattle and I fully expected to get to the hospital and see my father complaining about the nurses fussing over him. But I am my father's son. I was too late and yesterday on Sunday September 25th 2016 my father, Angel Miguel Rabasa, passed away. He was surrounded by loved ones.
 
-
+![Angel and Carter](/images/2016-09-26-angel-miguel-rabasa4.jpg)
 
 
 
