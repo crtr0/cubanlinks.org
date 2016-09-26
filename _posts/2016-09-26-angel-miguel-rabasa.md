@@ -27,6 +27,7 @@ My stepmother called my this past Saturday. She could tell that Angel wasn't doi
 
 ![Angel and Carter](/images/2016-09-26-angel-miguel-rabasa4.jpg)
 
+<meta property="og:image" content="/images/2016-09-26-angel-miguel-rabasa3.jpg"/>
 
 
 
